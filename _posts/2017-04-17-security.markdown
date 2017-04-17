@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Why do you think SSL/HTTPS is important?"
+date:   2017-04-17 01:12:33
+categories: SSL HTTPS
+---
+
+I think SSL/HTTPS security is important to prevent user-passwords from being easily disclosed by using a network sniffer.
