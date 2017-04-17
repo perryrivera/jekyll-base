@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Provide a link to documentation for a technical/developer-focused product, that you think are well done, and briefly explain why you think they are well done."
+date:   2017-04-17 01:05:43
+categories: great documentation
+---
+
+I think a great example of documentation is [GoByExample](https://gobyexample.com/)
+
+because it is very clean to read, quickly searching by Ctrl+F, and one can quickly find categories leading to easy-to-read and thoroughly described code examples.
