@@ -1,6 +1,6 @@
 # Site settings
 title: Perry Rivera
-email: your-email@domain.com
+email: perry-rivera@alumni.calpoly.edu
 description: > # this means to ignore newlines until "baseurl:"
   Learn about candidate Perry Rivera in these links.
 baseurl: "" # the subpath of your site, e.g. /blog/
